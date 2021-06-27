@@ -1,0 +1,21 @@
+https://blog.csdn.net/fanjingdan/article/details/81188673?utm_medium=distribute.pc_relevant_download.none-task-blog-2~default~BlogCommendFromBaidu~default-4.nonecase&depth_1-utm_source=distribute.pc_relevant_download.none-task-blog-2~default~BlogCommendFromBaidu~default-4.nonecas
+
+
+雪球
+股票信息
+https://xueqiu.com/stock/f10/compinfo.json?symbol=SZ000501
+利润表
+https://stock.xueqiu.com/v5/stock/finance/cn/income.json?symbol=SH600900&type=all&is_detail=true&count=5
+资产负债表
+https://stock.xueqiu.com/v5/stock/finance/cn/balance.json?symbol=SH600900&type=all&is_detail=true&count=5
+现金流量表
+https://stock.xueqiu.com/v5/stock/finance/cn/cash_flow.json?symbol=SH600900&type=all&is_detail=true&count=5
+行情
+https://xueqiu.com/stock/forchartk/stocklist.json?period=1d&type=normal&symbol=SZ000001
+分红
+https://xueqiu.com/stock/f10/bonus.json?symbol=SZ000501&size=10000&page=1
+行业
+https://xueqiu.com/industry/quote_order.json?page=1&size=10000&order=desc&exchange=CN&orderBy=percent&level2code=J68
+————————————————
+版权声明：本文为CSDN博主「fanjingdan」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/fanjingdan/article/details/81188673
